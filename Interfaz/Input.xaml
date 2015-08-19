@@ -1,0 +1,10 @@
+﻿<Window x:Class="Interfaz.Input"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Input" Height="120" Width="500" Closing="Window_Closing" WindowStyle="ToolWindow" ResizeMode="NoResize" SizeToContent="Height" >
+    <StackPanel Orientation="Vertical">
+        <TextBlock Text="Inserte el numero: " Margin="5"/>
+        <TextBox Name="txtNumero" Margin="5,0,5,5"/>
+        <Button Name="btnOk" Content="Ok" Margin="5,0,5,5" Click="btnOk_Click" />
+    </StackPanel>
+</Window>

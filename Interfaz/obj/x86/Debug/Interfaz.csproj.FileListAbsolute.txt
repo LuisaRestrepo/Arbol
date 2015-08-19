@@ -1,0 +1,17 @@
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\obj\x86\Debug\MainWindow.baml
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\obj\x86\Debug\App.g.cs
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\obj\x86\Debug\Interfaz_MarkupCompile.cache
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\obj\x86\Debug\Interfaz.g.resources
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\obj\x86\Debug\Input.baml
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\obj\x86\Debug\Input.g.cs
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\bin\Debug\Arbol.dll
+C:\Users\Drknzz\documents\visual studio 2010\Projects\Arbol\Interfaz\bin\Debug\Arbol.pdb

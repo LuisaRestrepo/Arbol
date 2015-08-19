@@ -1,0 +1,7 @@
+c:\users\drknzz\documents\visual studio 2010\Projects\Arbol\Test\bin\Debug\Test.exe
+c:\users\drknzz\documents\visual studio 2010\Projects\Arbol\Test\bin\Debug\Test.pdb
+c:\users\drknzz\documents\visual studio 2010\Projects\Arbol\Test\bin\Debug\Arbol.dll
+c:\users\drknzz\documents\visual studio 2010\Projects\Arbol\Test\bin\Debug\Arbol.pdb
+c:\users\drknzz\documents\visual studio 2010\Projects\Arbol\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\drknzz\documents\visual studio 2010\Projects\Arbol\Test\obj\x86\Debug\Test.exe
+c:\users\drknzz\documents\visual studio 2010\Projects\Arbol\Test\obj\x86\Debug\Test.pdb
